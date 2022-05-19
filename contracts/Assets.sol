@@ -1,1 +1,0 @@
-// This contract is for pulling all oracale values and holding them. This will be upgradeable to continue to update our list of assets.
